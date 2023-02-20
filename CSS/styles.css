@@ -12,7 +12,7 @@ img {
 }
 
 .page {
-  background-image: url(./assets/2314983.jpg);
+  background-image: url(../assets/2314983.jpg);
   background-blend-mode: multiply;
   background-color: rgb(100, 100, 100);
   background-repeat: no-repeat;
