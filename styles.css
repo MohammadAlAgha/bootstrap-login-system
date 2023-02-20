@@ -16,10 +16,16 @@
   align-items: center;
 }
 
-.form-label {
-  width: 100px;
+.control {
+  padding: 100px;
+  background-color: rgb(224, 224, 224);
+  border-radius: 30px;
+  width: 500px;
+  margin-bottom: 20px;
 }
 
-.control {
+.submit {
   width: 500px;
+  display: flex;
+  justify-content: end;
 }
