@@ -17,7 +17,7 @@
 }
 
 .control {
-  padding: 100px;
+  padding: 60px;
   background-color: rgb(224, 224, 224);
   border-radius: 30px;
   width: 500px;
@@ -25,7 +25,8 @@
 }
 
 .submit {
-  width: 500px;
+  margin-top: 30px;
+  width: 100%;
   display: flex;
-  justify-content: end;
+  justify-content: space-around;
 }
