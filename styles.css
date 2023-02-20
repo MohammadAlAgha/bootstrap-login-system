@@ -26,7 +26,7 @@ img {
 
 .control {
   padding: 60px;
-  background-color: rgba(224, 224, 224, 0.459);
+  background-color: rgba(224, 224, 224, 0.356);
   border-radius: 30px;
   width: 500px;
   margin-bottom: 20px;
@@ -39,7 +39,16 @@ img {
   margin-top: 30px;
   width: 100%;
   display: flex;
-  justify-content: space-around;
+  justify-content: space-between;
+  align-items: end;
+}
+
+.remember {
+  margin-top: 30px;
+  width: 100%;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 .form-check-inline {
@@ -56,12 +65,9 @@ img {
   height: 50px;
   display: flex;
   align-items: center;
-  justify-content: center;
+  justify-content: end;
 }
 
 .h5 {
   margin-top: 10px;
-}
-
-.btn oncl {
 }
