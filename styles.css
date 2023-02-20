@@ -4,3 +4,10 @@
   border: 0;
   box-sizing: border-box;
 }
+
+.page {
+  background-image: url(./assets/2314983.jpg);
+  background-repeat: no-repeat;
+  background-size: 100% 100vh;
+  height: 100vh;
+}
