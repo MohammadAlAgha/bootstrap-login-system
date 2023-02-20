@@ -10,4 +10,16 @@
   background-repeat: no-repeat;
   background-size: 100% 100vh;
   height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.form-label {
+  width: 100px;
+}
+
+.control {
+  width: 500px;
 }
